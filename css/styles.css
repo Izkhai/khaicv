@@ -1,0 +1,32 @@
+body{
+  background-color: #FFFACD;
+
+}
+
+hr{
+  border-style: none;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: black;
+    width: 50%
+}
+p{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+h1{
+  text-align:center;
+}
+
+td{
+  text-align: left;
+
+}
+
+ table,th,td{
+  border: 0.1px solid;
+
+}
